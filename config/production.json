@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://yasir1:yasir1@ds147520.mlab.com:47520/healthconnector",
+  "jwtSecret": "secret",
+  "githubClientId": "5cf7bd7a9dc14eb28f41",
+  "githubSecret": "af2486488e6386c168da643d17245352108c08a8"
+}
